@@ -13,4 +13,4 @@ export default {
   "technical-guides": {
     title: "Technical guides",
   },
-} satisfies MetaRecord;
+} satisfies MetaRecord
